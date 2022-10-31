@@ -1,0 +1,29 @@
+.container {
+    background-color: rgb(49, 49, 49);
+    height: 300px;
+    width: 500px;
+    padding:50px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px black;
+}
+
+.container h2 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.container input {
+    border:2px solid red;
+    border-radius: 15px;
+    padding:5px;
+    text-align: center;
+}
+
+.container button {
+    border:2px solid rgb(48, 84, 48);
+    background-color: rgb(10, 108, 10);
+    border-radius: 5px;
+    padding:5px;
+    margin:30px;
+}
